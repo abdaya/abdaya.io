@@ -2,7 +2,7 @@
  ###### Email: abd-amr14@hotmail.com
  ###### Linkdedin :  www.linkedin.com/in/abdellah-amrhar
  ###### Phone Number : 201-640-3762
- 
+ --------------------------------------------------------
 ## EDUCATION 
 
 ##### Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
