@@ -1,10 +1,11 @@
-# Abdellah Amrhar
-# Email: abd-amr14@hotmail.com
+ Abdellah Amrhar
+ ###### Email: abd-amr14@hotmail.com
  
-EDUCATION 
-            Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
-            Teaching Training Center                                               2000/2002                       Tiznit , Morocco
-            Automation Software Testing                                       2015/2017                        Astoria , New York
+## EDUCATION 
+
+  ##### Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
+  ##### Teaching Training Center                                     2000/2002                       Tiznit , Morocco
+  ##### Automation Software Testing                                  2015/2017                        Astoria , New York
                                       ● Experience in Writing SQL Queries and Database Testing
                                   ● Creating Test Strategy  Test Plan, test Report ,Test Case and Test Scripts for 
                                          Automated and  Manual Testing based on the Functional, Regression , GUI 
