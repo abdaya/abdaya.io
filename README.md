@@ -5,7 +5,8 @@
 
 Paragraph Text Here
 
-'''
-put "this is a code "
+,,,
+
+puts "this is a code "
 if this then do this
-'''
+,,,
