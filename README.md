@@ -12,11 +12,11 @@
     *  Creation Automated Test Scripts using Java / Selenium
 ##### Lincoln Technical Institute        2010/2012        UNION ,NJ 
 ##### Master Certified Automotive Technology Program 
-    *  Intro to Automotive Technology               *  Manual Transmission Engine Repair                                       
-    *  Brake Systems Electrical Systems             *  Steering & Suspension Automation 
-    *  Transmission                                 *  Engine Performance 
-    *  Fuel And Emission System Advance Electronic 
-    *  Maintaining GPA : 3.90 And 99.7 Attendance
+ *  Intro to Automotive Technology               *  Manual Transmission Engine Repair                                       
+ *  Brake Systems Electrical Systems             *  Steering & Suspension Automation 
+ *  Transmission                                 *  Engine Performance 
+ *  Fuel And Emission System Advance Electronic 
+ *  Maintaining GPA : 3.90 And 99.7 Attendance
 ## CERTIFICATIONS
  *  AST - Automation Software Testing 
  *  MCATP - Master Certified Automotive Technology Program
