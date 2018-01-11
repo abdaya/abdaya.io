@@ -5,26 +5,26 @@ Phone Number : 201-640-3762
 
 -------------------------------------------------
 ## PROFSSINNAL SUMMARY
-*  Strong analytical skills, self motivated and passionate about technology 
-*  Able to work as part in collaborative environment and communicate effectively in cross functional teams
-*  Well organized - Able to solve technical problems
+  *  Strong analytical skills, self motivated and passionate about technology 
+  *  Able to work as part in collaborative environment and communicate effectively in cross functional teams
+  *  Well organized - Able to solve technical problems
  
 ## EDUCATION 
 
 ##### Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
 ##### Teaching Training Center                                     2000/2002                       Tiznit , Morocco
 ##### Automation Software Testing                                  2015/2017                        Astoria , New York
- *  Experience in Writing SQL Queries and Database Testing
- *  Creating Test Strategy  Test Plan, test Report ,Test Case and Test Scripts for 
- *  Automated and  Manual Testing based on the Functional, Regression, GUI Usability and System Testing           
- *  Creation Automated Test Scripts using Java / Selenium
+   *  Experience in Writing SQL Queries and Database Testing
+   *  Creating Test Strategy  Test Plan, test Report ,Test Case and Test Scripts for 
+   *  Automated and  Manual Testing based on the Functional, Regression, GUI Usability and System Testing           
+   *  Creation Automated Test Scripts using Java / Selenium
 ##### Lincoln Technical Institute        2010/2012        UNION ,NJ 
 ##### Master Certified Automotive Technology Program 
- *  Intro to Automotive Technology               *  Manual Transmission Engine Repair                                       
- *  Brake Systems Electrical Systems             *  Steering & Suspension Automation 
- *  Transmission                                 *  Engine Performance 
- *  Fuel And Emission System Advance Electronic 
- *  Maintaining GPA : 3.90 And 99.7 Attendance
+   *  Intro to Automotive Technology               *  Manual Transmission Engine Repair                                       
+   *  Brake Systems Electrical Systems             *  Steering & Suspension Automation 
+   *  Transmission                                 *  Engine Performance 
+   *  Fuel And Emission System Advance Electronic 
+   *  Maintaining GPA : 3.90 And 99.7 Attendance
 ## CERTIFICATIONS
  *  AST - Automation Software Testing 
  *  MCATP - Master Certified Automotive Technology Program
