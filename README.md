@@ -21,7 +21,7 @@
 	* AST - Automation Software Testing 
 	*  MCATP  - Master Certified Automotive Technology Program
 ## WORK EXPERIENCE
-	### PRIMARY SCHOOL TEACHER                09/2002 to 11/2009                     Tiznit , Morocco
+	### PRIMARY SCHOOL TEACHER                09/2002 to 11/2009                     Tiznit , Morocco ###
                 *  Preparing and marking work to facilitate positive pupil development.
 		*  Organising and taking part in school events, outings and activities which may take place at                
                    weekends or in the evening
