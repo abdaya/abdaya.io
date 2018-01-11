@@ -11,7 +11,7 @@ Phone Number : 201-640-3762
  
 ## EDUCATION 
 
-#### Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
+#### *Associate Degree  in Computer Science*                        2003/2005                       Agadir , Morocco
 #### Teaching Training Center                                     2000/2002                       Tiznit , Morocco
 #### Automation Software Testing                                  2015/2017                        Astoria , New York
    *  Experience in Writing SQL Queries and Database Testing
