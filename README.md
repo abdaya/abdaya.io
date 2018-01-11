@@ -31,8 +31,8 @@
  *  Running extracurricular activities.
  *  Attending parents' evenings.
 #### SEARS                                  05/2010 to  08/2013                       Watchung , NJ
-    Remove and Replace Tire, Shocks, Struts, and Brakes, Windshield ,Light, Emission Inspection
-    Repair and Install Radiators and Water Pumps, Headlights, Replace Engine   
+ *  Remove and Replace Tire, Shocks, Struts, and Brakes, Windshield ,Light, Emission Inspection
+ *  Repair and Install Radiators and Water Pumps, Headlights, Replace Engine   
     Alternator  and Starter 
 #### PEPBOYS AUTO                           09/2013  to 03/2015                           Hackensack ,NJ
  *  Maintain Fluids such as Engine oils, Brake Oil Hydraulic and Grease
