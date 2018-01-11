@@ -33,7 +33,12 @@
     Repair and Install Radiators and Water Pumps, Headlights, Replace Engine   
     Alternator  and Starter 
 #### PEPBOYS AUTO                           09/2013  to 03/2015                           Hackensack ,NJ
-    Maintain Fluid such as Engine oils, Brake Oil Hydraulic  and Grease
-    Inspecting Gauges, Dials, Others Indicators to make sure a Machine is 
+ *  Maintain Fluids such as Engine oils, Brake Oil Hydraulic and Grease
+ *  Inspecting Gauges, Dials, Others Indicators to make sure a Machine is 
     Working Properly
 #### NYC TAXI CAB              04/2015  to  Now                         New York City
+*  Help the passenger get to the destination as fast as possible
+*  Taking care of clients complaints
+*  Drive on the fastest and shortest route available
+*  Filling in trip sheets with the daily schedule
+*  Avoid traffic congestions and use the best alternative route
