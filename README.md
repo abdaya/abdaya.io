@@ -1,8 +1,8 @@
-```Abdellah Amrhar
+Abdellah Amrhar
 Email: abd-amr14@hotmail.com
 Linkdedin :  www.linkedin.com/in/abdellah-amrhar
 Phone Number : 201-640-3762
-'''
+
 -------------------------------------------------
 ## PROFETINNAL SUMMARY
 *  Strong analytical skills, self motivated and passionate about technology 
