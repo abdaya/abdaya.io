@@ -1,15 +1,16 @@
  Abdellah Amrhar
  ###### Email: abd-amr14@hotmail.com
+ ###### Linkdedin :  www.linkedin.com/in/abdellah-amrhar
  
 ## EDUCATION 
 
-  ##### Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
-  ##### Teaching Training Center                                     2000/2002                       Tiznit , Morocco
-  ##### Automation Software Testing                                  2015/2017                        Astoria , New York
-    *  Experience in Writing SQL Queries and Database Testing
-    *  Creating Test Strategy  Test Plan, test Report ,Test Case and Test Scripts for 
-    *  Automated and  Manual Testing based on the Functional, Regression, GUI Usability and System Testing           
-    *  Creation Automated Test Scripts using Java / Selenium
+##### Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
+##### Teaching Training Center                                     2000/2002                       Tiznit , Morocco
+##### Automation Software Testing                                  2015/2017                        Astoria , New York
+ *  Experience in Writing SQL Queries and Database Testing
+ *  Creating Test Strategy  Test Plan, test Report ,Test Case and Test Scripts for 
+ *  Automated and  Manual Testing based on the Functional, Regression, GUI Usability and System Testing           
+ *  Creation Automated Test Scripts using Java / Selenium
 ##### Lincoln Technical Institute        2010/2012        UNION ,NJ 
 ##### Master Certified Automotive Technology Program 
  *  Intro to Automotive Technology               *  Manual Transmission Engine Repair                                       
@@ -37,8 +38,8 @@
  *  Inspecting Gauges, Dials, Others Indicators to make sure a Machine is 
     Working Properly
 #### NYC TAXI CAB              04/2015  to  Now                         New York City
-*  Help the passenger get to the destination as fast as possible
-*  Taking care of clients complaints
-*  Drive on the fastest and shortest route available
-*  Filling in trip sheets with the daily schedule
-*  Avoid traffic congestions and use the best alternative route
+ *  Help the passenger get to the destination as fast as possible
+ *  Taking care of clients complaints
+ *  Drive on the fastest and shortest route available
+ *  Filling in trip sheets with the daily schedule
+ *  Avoid traffic congestions and use the best alternative route
