@@ -1,6 +1,6 @@
 Abdellah Amrhar
 Email: abd-amr14@hotmail.com
-{Linkdedin]  (www.linkedin.com/in/abdellah-amrhar)
+[Linkdedin]  (www.linkedin.com/in/abdellah-amrhar)
 Phone Number : 201-640-3762
 
 -------------------------------------------------
