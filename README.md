@@ -22,12 +22,12 @@
  *  MCATP - Master Certified Automotive Technology Program
 ## WORK EXPERIENCE
 #### PRIMARY SCHOOL TEACHER                09/2002 to 11/2009                     Tiznit , Morocco 
-   *  Preparing and marking work to facilitate positive pupil development. 
-   *  Organising and taking part in school events, outings and activities which may take place at                
-      weekends or in the evening
-   *  Undertaking professional development . 
-   *  Running extracurricular activities.
-   *  Attending parents' evenings.
+ *  Preparing and marking work to facilitate positive pupil development. 
+ *  Organising and taking part in school events, outings and activities which may take place at                
+    weekends or in the evening
+ *  Undertaking professional development . 
+ *  Running extracurricular activities.
+ *  Attending parents' evenings.
 #### SEARS                                  05/2010 to  08/2013                       Watchung , NJ
     Remove and Replace Tire, Shocks, Struts, and Brakes, Windshield ,Light, Emission Inspection
     Repair and Install Radiators and Water Pumps, Headlights, Replace Engine   
