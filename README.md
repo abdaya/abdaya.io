@@ -1,5 +1,5 @@
-> Abdellah Amrhar                   |                              Email: abd-amr14@hotmail.com
-> Phone Number : 201-640-3762       |             [Linkedin](https://www.linkedin.com/in/abdellah-amrhar/)       
+>  ***Abdellah Amrhar***                    |                              Email: abd-amr14@hotmail.com
+>  ***Phone Number : 201-640-3762***      |             [Linkedin](https://www.linkedin.com/in/abdellah-amrhar/)       
  
 
 -------------------------------------------------
