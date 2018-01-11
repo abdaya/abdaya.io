@@ -1,4 +1,4 @@
-`Abdellah Amrhar`
+**Abdellah Amrhar**
 Email: abd-amr14@hotmail.com
  
 EDUCATION 
