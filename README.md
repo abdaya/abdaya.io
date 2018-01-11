@@ -1,5 +1,5 @@
-**Abdellah Amrhar**
-Email: abd-amr14@hotmail.com
+%Abdellah Amrhar
+%Email: abd-amr14@hotmail.com
  
 EDUCATION 
             Associate Degree  in Computer Science                        2003/2005                       Agadir , Morocco
