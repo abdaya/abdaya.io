@@ -3,7 +3,7 @@
  
 
 -------------------------------------------------
-## ***PROFESSINNAL SUMMARY***
+## ***PROFESSINAL SUMMARY***
   *  Strong analytical skills, self motivated and passionate about technology 
   *  Able to work as part in collaborative environment and communicate effectively in cross functional teams
   *  Well organized - Able to solve technical problems
